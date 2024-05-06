@@ -36,7 +36,7 @@ with open(name, 'r') as file:
     average_loss = (float(losts) / float(count_righe))*100
     average_time = float(time) / float(count_righe)
     average_attempts = float(attempts) / float(count_righe)
-    print(count_righe)
+    print("Rows: " + str(count_righe))
     print("Wins: ", str(average_wins))
     print("Loss: ", str(average_loss))
     print("Time: ", str(average_time))

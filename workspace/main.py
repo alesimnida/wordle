@@ -54,6 +54,7 @@ def wordle(guesses):
     start = "\033[34m" + "Welcome to Wordle!"
     print(start + " You have 5 attempts to guess a five-letters english word." + "\033[0m")
     secret_word = random.choice(guesses).lower()
+    #secret_word = "tithe"
     file_test.write("Secret word is: " + secret_word + "\n")
     #secret_word = "globe"
     #secret_word = "canal"

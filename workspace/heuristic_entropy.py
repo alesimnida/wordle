@@ -1,9 +1,12 @@
 from _utils import * 
 import math
 from tqdm import tqdm
+import random
 
 patterns_dictionary = "data/patterns.txt"
 patterns = load_dictionary(patterns_dictionary)
+
+already_tried = []
 
 #FIRST HEURISTIC: entropy
 def heuristic_entropy(possible_solutions, guesses):
@@ -23,8 +26,15 @@ def heuristic_entropy(possible_solutions, guesses):
         for w,s in entropy_list.items():
             if s > max:
                 max = s
-                max_word = w   
-		#print(max_word, max)         
+                max_word = w  
+        print(max_word, max) 
+        if (max == 1): #if entropy equals 1, i have equiprobable solutions, i need to try one
+            for element in already_tried[:]:
+                if element in possible_solutions:
+                    possible_solutions.remove(element)
+            print(possible_solutions)
+            max_word = random.choice(possible_solutions)   
+            already_tried.append(max_word)     
         return max_word
 
 def sum_entropy(word, possible_solutions):
