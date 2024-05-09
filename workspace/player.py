@@ -8,7 +8,7 @@ discaded_letters_all = []
 wrong_positions_all = {}
 already_found_all = []
 
-def guess(right_position, wrong_position, discarded, guesses, already_found, choice):
+def guess(right_position, wrong_position, discarded, guesses, already_found, choice, attempts):
 
     choices_minus_discarded = []
     choices_right_position = []
@@ -70,7 +70,7 @@ def guess(right_position, wrong_position, discarded, guesses, already_found, cho
         possible_solutions = choices_right_position
 
     if choice == 4 or choice == 5:
-        final_guess = heuristic_entropy(possible_solutions, guesses)
+        final_guess = heuristic_entropy(possible_solutions, guesses, attempts)
     elif choice == 3:
         final_guess = heuristic_words_frequency(possible_solutions)
     elif choice == 2:

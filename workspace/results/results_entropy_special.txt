@@ -1,421 +1,417 @@
 User chose heuristic: 5
-Secret word is: tithe
+Secret word is: quest
 Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: chine
-Attempt n: 3. Player choose guess: tithe
-Player won
-Time taken (in seconds): 16.5913
-Number of attempts: 3
----------------------------------------------
-User chose heuristic: 5
-Secret word is: leads
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: blade
-Attempt n: 3. Player choose guess: leads
-Player won
-Time taken (in seconds): 21.0529
-Number of attempts: 3
----------------------------------------------
-User chose heuristic: 5
-Secret word is: klutz
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: litho
-Attempt n: 3. Player choose guess: abaca
-Attempt n: 4. Player choose guess: klutz
-Player won
-Time taken (in seconds): 59.1743
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 5
-Secret word is: sperm
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: opens
-Attempt n: 3. Player choose guess: sperm
-Player won
-Time taken (in seconds): 10.705
-Number of attempts: 3
----------------------------------------------
-User chose heuristic: 5
-Secret word is: rices
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: solid
-Attempt n: 3. Player choose guess: pries
-Attempt n: 4. Player choose guess: marsh
-Attempt n: 5. Player choose guess: resin
-Attempt n: 6. Player choose guess: rives
-Time taken (in seconds): 59.4452
-Player lost
----------------------------------------------
-User chose heuristic: 5
-Secret word is: baser
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: bangs
-Attempt n: 3. Player choose guess: baser
-Player won
-Time taken (in seconds): 6.1501
-Number of attempts: 3
----------------------------------------------
-User chose heuristic: 5
-Secret word is: plies
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: dipso
-Attempt n: 3. Player choose guess: specs
-Attempt n: 4. Player choose guess: pinky
-Attempt n: 5. Player choose guess: plies
-Player won
-Time taken (in seconds): 125.7714
-Number of attempts: 5
----------------------------------------------
-User chose heuristic: 5
-Secret word is: clews
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: slide
-Attempt n: 3. Player choose guess: basic
-Attempt n: 4. Player choose guess: whelp
-Attempt n: 5. Player choose guess: clews
-Player won
-Time taken (in seconds): 93.9965
-Number of attempts: 5
----------------------------------------------
-User chose heuristic: 5
-Secret word is: ogres
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: poesy
-Attempt n: 3. Player choose guess: horns
-Attempt n: 4. Player choose guess: ogres
-Player won
-Time taken (in seconds): 36.805
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 5
-Secret word is: pimps
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: solum
-Attempt n: 3. Player choose guess: penis
-Attempt n: 4. Player choose guess: pimps
-Player won
-Time taken (in seconds): 271.66
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 5
-Secret word is: mucho
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: doily
-Attempt n: 3. Player choose guess: bacon
-Attempt n: 4. Player choose guess: mucho
-Player won
-Time taken (in seconds): 377.8324
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 5
-Secret word is: fazed
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: lynch
-Attempt n: 3. Player choose guess: media
-Attempt n: 4. Player choose guess: gawks
-Attempt n: 5. Player choose guess: fazed
-Player won
-Time taken (in seconds): 299.8539
-Number of attempts: 5
----------------------------------------------
-User chose heuristic: 5
-Secret word is: carve
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: bagel
-Attempt n: 3. Player choose guess: cornu
-Attempt n: 4. Player choose guess: carve
-Player won
-Time taken (in seconds): 13.3227
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 5
-Secret word is: prism
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: choir
-Attempt n: 3. Player choose guess: grips
-Attempt n: 4. Player choose guess: prism
-Player won
-Time taken (in seconds): 41.6719
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 5
-Secret word is: nappy
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: nobly
-Attempt n: 3. Player choose guess: acned
-Attempt n: 4. Player choose guess: hying
-Attempt n: 5. Player choose guess: nappy
-Player won
-Time taken (in seconds): 134.0493
-Number of attempts: 5
----------------------------------------------
-User chose heuristic: 5
-Secret word is: betel
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: dicot
-Attempt n: 3. Player choose guess: penal
-Attempt n: 4. Player choose guess: betel
-Player won
-Time taken (in seconds): 34.5381
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 5
-Secret word is: newts
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: blest
-Attempt n: 3. Player choose guess: mints
+Attempt n: 2. Player choose guess: noels
+Attempt n: 3. Player choose guess: agues
 Attempt n: 4. Player choose guess: abase
-Attempt n: 5. Player choose guess: apsos
-Attempt n: 6. Player choose guess: newts
+Attempt n: 5. Player choose guess: quest
 Player won
-Time taken (in seconds): 69.7864
-Number of attempts: 6
----------------------------------------------
-User chose heuristic: 5
-Secret word is: genre
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: bride
-Attempt n: 3. Player choose guess: cruel
-Attempt n: 4. Player choose guess: enemy
-Attempt n: 5. Player choose guess: aport
-Attempt n: 6. Player choose guess: genre
-Player won
-Time taken (in seconds): 93.3745
-Number of attempts: 6
----------------------------------------------
-User chose heuristic: 5
-Secret word is: flood
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: doily
-Attempt n: 3. Player choose guess: abbot
-Attempt n: 4. Player choose guess: flood
-Player won
-Time taken (in seconds): 273.9624
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 5
-Secret word is: cokes
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: dipso
-Attempt n: 3. Player choose guess: close
-Attempt n: 4. Player choose guess: axman
-Attempt n: 5. Player choose guess: cooky
-Attempt n: 6. Player choose guess: cokes
-Player won
-Time taken (in seconds): 272.5876
-Number of attempts: 6
----------------------------------------------
-User chose heuristic: 5
-Secret word is: pears
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: raspy
-Attempt n: 3. Player choose guess: chase
-Attempt n: 4. Player choose guess: based
-Attempt n: 5. Player choose guess: pansy
-Attempt n: 6. Player choose guess: pears
-Player won
-Time taken (in seconds): 53.9088
-Number of attempts: 6
----------------------------------------------
-User chose heuristic: 5
-Secret word is: macho
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: nobly
-Attempt n: 3. Player choose guess: campo
-Attempt n: 4. Player choose guess: macho
-Player won
-Time taken (in seconds): 138.2346
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 5
-Secret word is: jimmy
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: doily
-Attempt n: 3. Player choose guess: panga
-Attempt n: 4. Player choose guess: cliff
-Attempt n: 5. Player choose guess: abaci
-Attempt n: 6. Player choose guess: abaci
-Time taken (in seconds): 272.793
-Player lost
----------------------------------------------
-User chose heuristic: 5
-Secret word is: mulls
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: solum
-Attempt n: 3. Player choose guess: mulls
-Player won
-Time taken (in seconds): 212.2699
-Number of attempts: 3
----------------------------------------------
-User chose heuristic: 5
-Secret word is: seats
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: blash
-Attempt n: 3. Player choose guess: spite
-Attempt n: 4. Player choose guess: seats
-Player won
-Time taken (in seconds): 24.7527
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 5
-Secret word is: stake
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: bleat
-Attempt n: 3. Player choose guess: paths
-Attempt n: 4. Player choose guess: sneak
-Attempt n: 5. Player choose guess: skate
-Attempt n: 6. Player choose guess: stake
-Player won
-Time taken (in seconds): 44.9175
-Number of attempts: 6
----------------------------------------------
-User chose heuristic: 5
-Secret word is: kapok
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: nobly
-Attempt n: 3. Player choose guess: campo
-Attempt n: 4. Player choose guess: kapok
-Player won
-Time taken (in seconds): 101.5703
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 5
-Secret word is: reams
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: raspy
-Attempt n: 3. Player choose guess: addle
-Attempt n: 4. Player choose guess: brent
-Attempt n: 5. Player choose guess: fresh
-Attempt n: 6. Player choose guess: screw
-Time taken (in seconds): 50.8555
-Player lost
----------------------------------------------
-User chose heuristic: 5
-Secret word is: jades
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: clasp
-Attempt n: 3. Player choose guess: manse
-Attempt n: 4. Player choose guess: sedgy
-Attempt n: 5. Player choose guess: faith
-Attempt n: 6. Player choose guess: dowse
-Time taken (in seconds): 173.4859
-Player lost
----------------------------------------------
-User chose heuristic: 5
-Secret word is: bilks
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: solum
-Attempt n: 3. Player choose guess: whelk
-Attempt n: 4. Player choose guess: aback
-Attempt n: 5. Player choose guess: bilks
-Player won
-Time taken (in seconds): 249.3822
+Time taken (in seconds): 109.2283
 Number of attempts: 5
 ---------------------------------------------
 User chose heuristic: 5
-Secret word is: shoos
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: solum
-Attempt n: 3. Player choose guess: winos
-Attempt n: 4. Player choose guess: hypos
-Attempt n: 5. Player choose guess: shoos
-Player won
-Time taken (in seconds): 229.7569
-Number of attempts: 5
----------------------------------------------
-User chose heuristic: 5
-Secret word is: buses
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: dipso
-Attempt n: 3. Player choose guess: sleek
-Attempt n: 4. Player choose guess: manse
-Attempt n: 5. Player choose guess: fusee
-Attempt n: 6. Player choose guess: buses
-Player won
-Time taken (in seconds): 237.5319
-Number of attempts: 6
----------------------------------------------
-User chose heuristic: 5
-Secret word is: stony
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: hoist
-Attempt n: 3. Player choose guess: sloop
-Attempt n: 4. Player choose guess: candy
-Attempt n: 5. Player choose guess: stony
-Player won
-Time taken (in seconds): 58.2852
-Number of attempts: 5
----------------------------------------------
-User chose heuristic: 5
-Secret word is: dumpy
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: doily
-Attempt n: 3. Player choose guess: nymph
-Attempt n: 4. Player choose guess: baddy
-Attempt n: 5. Player choose guess: alums
-Attempt n: 6. Player choose guess: cadge
-Time taken (in seconds): 236.375
-Player lost
----------------------------------------------
-User chose heuristic: 5
-Secret word is: stave
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: bleat
-Attempt n: 3. Player choose guess: paths
-Attempt n: 4. Player choose guess: sneak
-Attempt n: 5. Player choose guess: agate
-Attempt n: 6. Player choose guess: stave
-Player won
-Time taken (in seconds): 49.2217
-Number of attempts: 6
----------------------------------------------
-User chose heuristic: 5
-Secret word is: novae
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: blade
-Attempt n: 3. Player choose guess: amigo
-Attempt n: 4. Player choose guess: novae
-Player won
-Time taken (in seconds): 77.6543
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 5
-Secret word is: adios
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: clasp
-Attempt n: 3. Player choose guess: sound
-Attempt n: 4. Player choose guess: dados
-Attempt n: 5. Player choose guess: adios
-Player won
-Time taken (in seconds): 98.1553
-Number of attempts: 5
----------------------------------------------
-User chose heuristic: 5
-Secret word is: runts
-Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: cornu
-Attempt n: 3. Player choose guess: runty
-Attempt n: 4. Player choose guess: runts
-Player won
-Time taken (in seconds): 9.0522
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 5
-Secret word is: broad
+Secret word is: rumba
 Attempt n: 1. Player choose guess: tares
 Attempt n: 2. Player choose guess: adorn
-Attempt n: 3. Player choose guess: broad
+Attempt n: 3. Player choose guess: climb
+Attempt n: 4. Player choose guess: umbra
+Attempt n: 5. Player choose guess: rumba
 Player won
-Time taken (in seconds): 57.8676
+Time taken (in seconds): 314.8208
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: tenth
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: chine
+Attempt n: 3. Player choose guess: abbey
+Attempt n: 4. Player choose guess: adept
+Attempt n: 5. Player choose guess: tenth
+Player won
+Time taken (in seconds): 41.6033
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: silky
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: noisy
+Attempt n: 3. Player choose guess: ahold
+Attempt n: 4. Player choose guess: sibyl
+Attempt n: 5. Player choose guess: silky
+Player won
+Time taken (in seconds): 413.8708
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: harsh
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: saran
+Attempt n: 3. Player choose guess: harsh
+Player won
+Time taken (in seconds): 7.504
 Number of attempts: 3
 ---------------------------------------------
 User chose heuristic: 5
-Secret word is: thorn
+Secret word is: lathe
 Attempt n: 1. Player choose guess: tares
-Attempt n: 2. Player choose guess: pouch
-Attempt n: 3. Player choose guess: abort
-Attempt n: 4. Player choose guess: thorn
+Attempt n: 2. Player choose guess: abash
+Attempt n: 3. Player choose guess: acute
+Attempt n: 4. Player choose guess: lathe
 Player won
-Time taken (in seconds): 14.8141
+Time taken (in seconds): 18.8749
 Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: leapt
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: leapt
+Player won
+Time taken (in seconds): 90.0662
+Number of attempts: 2
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: leave
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: blade
+Attempt n: 3. Player choose guess: whale
+Attempt n: 4. Player choose guess: leave
+Player won
+Time taken (in seconds): 190.3254
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: fifth
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: litho
+Attempt n: 3. Player choose guess: ninth
+Attempt n: 4. Player choose guess: width
+Attempt n: 5. Player choose guess: fifth
+Player won
+Time taken (in seconds): 261.0276
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: login
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: doily
+Attempt n: 3. Player choose guess: clamp
+Attempt n: 4. Player choose guess: achoo
+Attempt n: 5. Player choose guess: login
+Player won
+Time taken (in seconds): 327.4871
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: comic
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: doily
+Attempt n: 3. Player choose guess: cinch
+Attempt n: 4. Player choose guess: abaci
+Attempt n: 5. Player choose guess: comic
+Player won
+Time taken (in seconds): 338.287
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: leech
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: being
+Attempt n: 3. Player choose guess: whole
+Attempt n: 4. Player choose guess: leech
+Player won
+Time taken (in seconds): 222.1508
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: fanny
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: nobly
+Attempt n: 3. Player choose guess: cuing
+Attempt n: 4. Player choose guess: bylaw
+Attempt n: 5. Player choose guess: amend
+Attempt n: 6. Player choose guess: fanny
+Player won
+Time taken (in seconds): 143.6149
+Number of attempts: 6
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: nobly
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: doily
+Attempt n: 3. Player choose guess: flown
+Attempt n: 4. Player choose guess: nobly
+Player won
+Time taken (in seconds): 272.3061
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: surge
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: vogue
+Attempt n: 3. Player choose guess: guise
+Attempt n: 4. Player choose guess: surge
+Player won
+Time taken (in seconds): 10.7216
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: tawny
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: lanky
+Attempt n: 3. Player choose guess: crypt
+Attempt n: 4. Player choose guess: titan
+Attempt n: 5. Player choose guess: tawny
+Player won
+Time taken (in seconds): 49.4311
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: bluff
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: doily
+Attempt n: 3. Player choose guess: pluck
+Attempt n: 4. Player choose guess: bluff
+Player won
+Time taken (in seconds): 303.8983
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: witch
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: litho
+Attempt n: 3. Player choose guess: witch
+Player won
+Time taken (in seconds): 81.8799
+Number of attempts: 3
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: stung
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: hoist
+Attempt n: 3. Player choose guess: bunds
+Attempt n: 4. Player choose guess: stunt
+Attempt n: 5. Player choose guess: stung
+Player won
+Time taken (in seconds): 77.4013
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: sweet
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: extol
+Attempt n: 3. Player choose guess: upset
+Attempt n: 4. Player choose guess: skeet
+Attempt n: 5. Player choose guess: sweet
+Player won
+Time taken (in seconds): 36.1324
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: forty
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: biffy
+Attempt n: 3. Player choose guess: forty
+Player won
+Time taken (in seconds): 7.8961
+Number of attempts: 3
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: might
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: litho
+Attempt n: 3. Player choose guess: bight
+Attempt n: 4. Player choose guess: fight
+Attempt n: 5. Player choose guess: night
+Attempt n: 6. Player choose guess: might
+Player won
+Time taken (in seconds): 162.933
+Number of attempts: 6
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: masse
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: plugs
+Attempt n: 3. Player choose guess: weans
+Attempt n: 4. Player choose guess: aargh
+Attempt n: 5. Player choose guess: masse
+Player won
+Time taken (in seconds): 41.092
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: chirp
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: round
+Attempt n: 3. Player choose guess: chimp
+Attempt n: 4. Player choose guess: chirp
+Player won
+Time taken (in seconds): 115.8226
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: tempo
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: chine
+Attempt n: 3. Player choose guess: pilot
+Attempt n: 4. Player choose guess: tempo
+Player won
+Time taken (in seconds): 44.0293
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: brush
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: choir
+Attempt n: 3. Player choose guess: brush
+Player won
+Time taken (in seconds): 16.8535
+Number of attempts: 3
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: taper
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: tamer
+Attempt n: 3. Player choose guess: taper
+Player won
+Time taken (in seconds): 7.2587
+Number of attempts: 3
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: humid
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: doily
+Attempt n: 3. Player choose guess: acids
+Attempt n: 4. Player choose guess: vivid
+Attempt n: 5. Player choose guess: humid
+Player won
+Time taken (in seconds): 223.2657
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: debar
+Attempt n: 1. Player choose guess: tares
+User chose heuristic: 5
+Secret word is: snoop
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: noisy
+Attempt n: 3. Player choose guess: aphid
+Attempt n: 4. Player choose guess: snoop
+Player won
+Time taken (in seconds): 116.2501
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: scent
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: noels
+Attempt n: 3. Player choose guess: acted
+Attempt n: 4. Player choose guess: scent
+Player won
+Time taken (in seconds): 25.4869
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: brown
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: round
+Attempt n: 3. Player choose guess: bigot
+Attempt n: 4. Player choose guess: bromo
+Attempt n: 5. Player choose guess: bronc
+Attempt n: 6. Player choose guess: brown
+Player won
+Time taken (in seconds): 77.5935
+Number of attempts: 6
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: spiel
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: douse
+Attempt n: 3. Player choose guess: sleep
+Attempt n: 4. Player choose guess: spiel
+Player won
+Time taken (in seconds): 122.949
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: fried
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: redip
+Attempt n: 3. Player choose guess: mined
+Attempt n: 4. Player choose guess: acids
+Attempt n: 5. Player choose guess: ferry
+Attempt n: 6. Player choose guess: filer
+Time taken (in seconds): 126.0202
+Player lost
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: rainy
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: briny
+Attempt n: 3. Player choose guess: rainy
+Player won
+Time taken (in seconds): 22.731
+Number of attempts: 3
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: rusty
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: south
+Attempt n: 3. Player choose guess: busty
+Attempt n: 4. Player choose guess: musty
+Attempt n: 5. Player choose guess: dusty
+Attempt n: 6. Player choose guess: lusty
+Time taken (in seconds): 23.4635
+Player lost
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: think
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: ninth
+Attempt n: 3. Player choose guess: thins
+Attempt n: 4. Player choose guess: think
+Player won
+Time taken (in seconds): 30.2266
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: tryst
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: tryst
+Player won
+Time taken (in seconds): 1.8799
+Number of attempts: 2
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: kneed
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: devil
+Attempt n: 3. Player choose guess: condo
+Attempt n: 4. Player choose guess: femur
+Attempt n: 5. Player choose guess: kneed
+Player won
+Time taken (in seconds): 172.0827
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: libel
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: devil
+Attempt n: 3. Player choose guess: admix
+Attempt n: 4. Player choose guess: wince
+Attempt n: 5. Player choose guess: libel
+Player won
+Time taken (in seconds): 155.5343
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 5
+Secret word is: booze
+Attempt n: 1. Player choose guess: tares
+Attempt n: 2. Player choose guess: being
+Attempt n: 3. Player choose guess: amuck
+Attempt n: 4. Player choose guess: abled
+Attempt n: 5. Player choose guess: abbey
+Attempt n: 6. Player choose guess: booze
+Player won
+Time taken (in seconds): 162.3786
+Number of attempts: 6
 ---------------------------------------------

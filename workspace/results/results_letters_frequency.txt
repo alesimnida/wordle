@@ -1,432 +1,422 @@
-User chose heuristic: 4
-Secret word is: snout
+User chose heuristic: 1
+Secret word is: spine
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: seine
+Attempt n: 3. Player choose guess: spine
+Player won
+Time taken (in seconds): 0.008
+Number of attempts: 3
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: fewer
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: ender
+Attempt n: 3. Player choose guess: corer
+Attempt n: 4. Player choose guess: leper
+Attempt n: 5. Player choose guess: refer
+Attempt n: 6. Player choose guess: fever
+Time taken (in seconds): 0.0395
+Player lost
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: third
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: inert
+Attempt n: 3. Player choose guess: third
+Player won
+Time taken (in seconds): 0.0108
+Number of attempts: 3
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: ruler
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: ender
+Attempt n: 3. Player choose guess: corer
+Attempt n: 4. Player choose guess: leper
+Attempt n: 5. Player choose guess: ruler
+Player won
+Time taken (in seconds): 0.0245
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: tiger
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: tiler
+Attempt n: 3. Player choose guess: timer
+Attempt n: 4. Player choose guess: tiger
+Player won
+Time taken (in seconds): 0.0156
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: salad
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: sedan
+Attempt n: 3. Player choose guess: salad
+Player won
+Time taken (in seconds): 0.0099
+Number of attempts: 3
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: sloth
 Attempt n: 1. Player choose guess: sitar
 Attempt n: 2. Player choose guess: stets
-Attempt n: 3. Player choose guess: snoot
-Attempt n: 4. Player choose guess: snout
-Player won
-Time taken (in seconds): 0.0136
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 4
-Secret word is: salon
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: sales
-Attempt n: 3. Player choose guess: salsa
-Attempt n: 4. Player choose guess: salon
-Player won
-Time taken (in seconds): 0.0186
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 4
-Secret word is: shame
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: sales
-Attempt n: 3. Player choose guess: seams
-Attempt n: 4. Player choose guess: shame
-Player won
-Time taken (in seconds): 0.0151
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 4
-Secret word is: tikes
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: tines
-Attempt n: 3. Player choose guess: tiles
-Attempt n: 4. Player choose guess: tides
-Attempt n: 5. Player choose guess: times
-Attempt n: 6. Player choose guess: tikes
-Player won
-Time taken (in seconds): 0.0199
-Number of attempts: 6
----------------------------------------------
-User chose heuristic: 4
-Secret word is: hates
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: antes
-Attempt n: 3. Player choose guess: sates
-Attempt n: 4. Player choose guess: dates
-Attempt n: 5. Player choose guess: pates
-Attempt n: 6. Player choose guess: mates
-Time taken (in seconds): 0.0209
-Player lost
----------------------------------------------
-User chose heuristic: 4
-Secret word is: vices
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: nisei
-Attempt n: 3. Player choose guess: dices
-Attempt n: 4. Player choose guess: vices
-Player won
-Time taken (in seconds): 0.0122
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 4
-Secret word is: exult
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: tenet
-Attempt n: 3. Player choose guess: elect
-Attempt n: 4. Player choose guess: exult
-Player won
-Time taken (in seconds): 0.0137
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 4
-Secret word is: herby
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: erred
-Attempt n: 3. Player choose guess: rerun
-Attempt n: 4. Player choose guess: merge
-Attempt n: 5. Player choose guess: perch
-Attempt n: 6. Player choose guess: herby
-Player won
-Time taken (in seconds): 0.017
-Number of attempts: 6
----------------------------------------------
-User chose heuristic: 4
-Secret word is: entry
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: retro
-Attempt n: 3. Player choose guess: entry
-Player won
-Time taken (in seconds): 0.0096
-Number of attempts: 3
----------------------------------------------
-User chose heuristic: 4
-Secret word is: slack
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: sales
-Attempt n: 3. Player choose guess: slaps
-Attempt n: 4. Player choose guess: slams
-Attempt n: 5. Player choose guess: slags
-Attempt n: 6. Player choose guess: slash
-Time taken (in seconds): 0.024
-Player lost
----------------------------------------------
-User chose heuristic: 4
-Secret word is: homos
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: esses
-Attempt n: 3. Player choose guess: noons
-Attempt n: 4. Player choose guess: cools
-Attempt n: 5. Player choose guess: dodos
-Attempt n: 6. Player choose guess: homos
-Player won
-Time taken (in seconds): 0.0342
-Number of attempts: 6
----------------------------------------------
-User chose heuristic: 4
-Secret word is: humpy
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: melee
-Attempt n: 3. Player choose guess: duomo
-Attempt n: 4. Player choose guess: humph
-Attempt n: 5. Player choose guess: humpy
-Player won
-Time taken (in seconds): 0.0244
-Number of attempts: 5
----------------------------------------------
-User chose heuristic: 4
-Secret word is: lanky
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: enema
-Attempt n: 3. Player choose guess: canon
-Attempt n: 4. Player choose guess: nanny
-Attempt n: 5. Player choose guess: dandy
-Attempt n: 6. Player choose guess: fanny
-Time taken (in seconds): 0.0297
-Player lost
----------------------------------------------
-User chose heuristic: 4
-Secret word is: koala
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: enema
-Attempt n: 3. Player choose guess: calla
-Attempt n: 4. Player choose guess: koala
-Player won
-Time taken (in seconds): 0.0228
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 4
-Secret word is: friar
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: briar
-Attempt n: 3. Player choose guess: friar
-Player won
-Time taken (in seconds): 0.0065
-Number of attempts: 3
----------------------------------------------
-User chose heuristic: 4
-Secret word is: gents
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: teens
-Attempt n: 3. Player choose guess: nests
-Attempt n: 4. Player choose guess: tents
-Attempt n: 5. Player choose guess: cents
-Attempt n: 6. Player choose guess: dents
-Time taken (in seconds): 0.0213
-Player lost
----------------------------------------------
-User chose heuristic: 4
-Secret word is: slily
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: seine
-Attempt n: 3. Player choose guess: soils
-Attempt n: 4. Player choose guess: spill
-Attempt n: 5. Player choose guess: shill
-Attempt n: 6. Player choose guess: slily
-Player won
-Time taken (in seconds): 0.027
-Number of attempts: 6
----------------------------------------------
-User chose heuristic: 4
-Secret word is: lived
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: niece
-Attempt n: 3. Player choose guess: oiled
-Attempt n: 4. Player choose guess: limed
-Attempt n: 5. Player choose guess: lived
-Player won
-Time taken (in seconds): 0.0208
-Number of attempts: 5
----------------------------------------------
-User chose heuristic: 4
-Secret word is: sworn
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: seers
-Attempt n: 3. Player choose guess: sours
-Attempt n: 4. Player choose guess: scorn
-Attempt n: 5. Player choose guess: shorn
-Attempt n: 6. Player choose guess: sworn
-Player won
-Time taken (in seconds): 0.0171
-Number of attempts: 6
----------------------------------------------
-User chose heuristic: 4
-Secret word is: temps
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: teens
-Attempt n: 3. Player choose guess: tests
-Attempt n: 4. Player choose guess: teems
-Attempt n: 5. Player choose guess: temps
-Player won
-Time taken (in seconds): 0.017
-Number of attempts: 5
----------------------------------------------
-User chose heuristic: 4
-Secret word is: photo
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: tenet
-Attempt n: 3. Player choose guess: molto
-Attempt n: 4. Player choose guess: photo
-Player won
-Time taken (in seconds): 0.0158
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 4
-Secret word is: vinyl
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: niece
-Attempt n: 3. Player choose guess: minim
-Attempt n: 4. Player choose guess: lingo
-Attempt n: 5. Player choose guess: vinyl
-Player won
-Time taken (in seconds): 0.0197
-Number of attempts: 5
----------------------------------------------
-User chose heuristic: 4
-Secret word is: scrod
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: seers
-Attempt n: 3. Player choose guess: surds
-Attempt n: 4. Player choose guess: scrod
-Player won
-Time taken (in seconds): 0.0142
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 4
-Secret word is: trams
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: tares
-Attempt n: 3. Player choose guess: tsars
-Attempt n: 4. Player choose guess: trans
-Attempt n: 5. Player choose guess: traps
-Attempt n: 6. Player choose guess: trams
-Player won
-Time taken (in seconds): 0.0199
-Number of attempts: 6
----------------------------------------------
-User chose heuristic: 4
-Secret word is: ouija
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: inane
-Attempt n: 3. Player choose guess: alibi
-Attempt n: 4. Player choose guess: ouija
-Player won
-Time taken (in seconds): 0.015
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 4
-Secret word is: yeses
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: esses
-Attempt n: 3. Player choose guess: noses
-Attempt n: 4. Player choose guess: yeses
-Player won
-Time taken (in seconds): 0.021
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 4
-Secret word is: flips
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: isles
-Attempt n: 3. Player choose guess: soils
-Attempt n: 4. Player choose guess: slips
-Attempt n: 5. Player choose guess: clips
-Attempt n: 6. Player choose guess: blips
-Time taken (in seconds): 0.0183
-Player lost
----------------------------------------------
-User chose heuristic: 4
-Secret word is: years
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: erase
-Attempt n: 3. Player choose guess: sears
-Attempt n: 4. Player choose guess: rears
-Attempt n: 5. Player choose guess: nears
-Attempt n: 6. Player choose guess: dears
-Time taken (in seconds): 0.0181
-Player lost
----------------------------------------------
-User chose heuristic: 4
-Secret word is: loppy
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: melee
-Attempt n: 3. Player choose guess: loony
-Attempt n: 4. Player choose guess: loopy
-Attempt n: 5. Player choose guess: loppy
-Player won
-Time taken (in seconds): 0.0249
-Number of attempts: 5
----------------------------------------------
-User chose heuristic: 4
-Secret word is: pares
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: erase
-Attempt n: 3. Player choose guess: nares
-Attempt n: 4. Player choose guess: cares
-Attempt n: 5. Player choose guess: dares
-Attempt n: 6. Player choose guess: pares
-Player won
-Time taken (in seconds): 0.0232
-Number of attempts: 6
----------------------------------------------
-
-User chose heuristic: 4
-Secret word is: hypes
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: esses
-Attempt n: 3. Player choose guess: epees
-Attempt n: 4. Player choose guess: penes
-Attempt n: 5. Player choose guess: supes
-Attempt n: 6. Player choose guess: lopes
-Time taken (in seconds): 0.0165
-Player lost
----------------------------------------------
-User chose heuristic: 4
-Secret word is: gnash
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: eases
-Attempt n: 3. Player choose guess: asana
-Attempt n: 4. Player choose guess: gnash
-Player won
-Time taken (in seconds): 0.026
-Number of attempts: 4
----------------------------------------------
-User chose heuristic: 4
-Secret word is: fares
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: erase
-Attempt n: 3. Player choose guess: nares
-Attempt n: 4. Player choose guess: cares
-Attempt n: 5. Player choose guess: dares
-Attempt n: 6. Player choose guess: pares
-Time taken (in seconds): 0.0286
-Player lost
----------------------------------------------
-User chose heuristic: 4
-Secret word is: kopek
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: melee
-Attempt n: 3. Player choose guess: donee
-Attempt n: 4. Player choose guess: gooey
-Attempt n: 5. Player choose guess: wowee
-Attempt n: 6. Player choose guess: kopek
-Player won
-Time taken (in seconds): 0.0307
-Number of attempts: 6
----------------------------------------------
-User chose heuristic: 4
-Secret word is: swipe
-Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: seine
-Attempt n: 3. Player choose guess: slice
-Attempt n: 4. Player choose guess: seize
-Attempt n: 5. Player choose guess: spike
-Attempt n: 6. Player choose guess: swipe
+Attempt n: 3. Player choose guess: snots
+Attempt n: 4. Player choose guess: soots
+Attempt n: 5. Player choose guess: slots
+Attempt n: 6. Player choose guess: sloth
 Player won
 Time taken (in seconds): 0.0277
 Number of attempts: 6
 ---------------------------------------------
-User chose heuristic: 4
-Secret word is: knack
+User chose heuristic: 1
+Secret word is: diode
 Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: enema
-Attempt n: 3. Player choose guess: annul
-Attempt n: 4. Player choose guess: knack
+Attempt n: 2. Player choose guess: niece
+Attempt n: 3. Player choose guess: liege
+Attempt n: 4. Player choose guess: diode
 Player won
-Time taken (in seconds): 0.0261
+Time taken (in seconds): 0.0208
 Number of attempts: 4
 ---------------------------------------------
-User chose heuristic: 4
-Secret word is: tutus
+User chose heuristic: 1
+Secret word is: angst
 Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: notes
-Attempt n: 3. Player choose guess: tutus
+Attempt n: 2. Player choose guess: tease
+Attempt n: 3. Player choose guess: canst
+Attempt n: 4. Player choose guess: angst
 Player won
-Time taken (in seconds): 0.0145
+Time taken (in seconds): 0.0195
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: satyr
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: satyr
+Player won
+Time taken (in seconds): 0.0055
+Number of attempts: 2
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: spurt
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: stern
+Attempt n: 3. Player choose guess: sport
+Attempt n: 4. Player choose guess: spurt
+Player won
+Time taken (in seconds): 0.0151
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: edict
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: elite
+Attempt n: 3. Player choose guess: edict
+Player won
+Time taken (in seconds): 0.0104
 Number of attempts: 3
 ---------------------------------------------
-User chose heuristic: 4
-Secret word is: writs
+User chose heuristic: 1
+Secret word is: scaly
 Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: tries
-Attempt n: 3. Player choose guess: crits
-Attempt n: 4. Player choose guess: grits
-Attempt n: 5. Player choose guess: writs
+Attempt n: 2. Player choose guess: sales
+Attempt n: 3. Player choose guess: slaps
+Attempt n: 4. Player choose guess: scald
+Attempt n: 5. Player choose guess: scaly
 Player won
-Time taken (in seconds): 0.0293
+Time taken (in seconds): 0.0242
 Number of attempts: 5
 ---------------------------------------------
-User chose heuristic: 4
-Secret word is: burrs
+User chose heuristic: 1
+Secret word is: junta
 Attempt n: 1. Player choose guess: sitar
-Attempt n: 2. Player choose guess: leers
-Attempt n: 3. Player choose guess: doors
-Attempt n: 4. Player choose guess: purrs
-Attempt n: 5. Player choose guess: burrs
+Attempt n: 2. Player choose guess: elate
+Attempt n: 3. Player choose guess: canto
+Attempt n: 4. Player choose guess: junta
 Player won
-Time taken (in seconds): 0.0205
+Time taken (in seconds): 0.0173
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: gloss
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: esses
+Attempt n: 3. Player choose guess: noons
+Attempt n: 4. Player choose guess: gloss
+Player won
+Time taken (in seconds): 0.0332
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: credo
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: erred
+Attempt n: 3. Player choose guess: drone
+Attempt n: 4. Player choose guess: credo
+Player won
+Time taken (in seconds): 0.0207
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: while
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: indie
+Attempt n: 3. Player choose guess: beige
+Attempt n: 4. Player choose guess: clime
+Attempt n: 5. Player choose guess: exile
+Attempt n: 6. Player choose guess: voile
+Time taken (in seconds): 0.0368
+Player lost
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: clear
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: drear
+Attempt n: 3. Player choose guess: clear
+Player won
+Time taken (in seconds): 0.0104
+Number of attempts: 3
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: cabby
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: enema
+Attempt n: 3. Player choose guess: aloud
+Attempt n: 4. Player choose guess: pappy
+Attempt n: 5. Player choose guess: cabby
+Player won
+Time taken (in seconds): 0.0417
 Number of attempts: 5
 ---------------------------------------------
-User chose heuristic: 4
-Secret word is: muggy
+User chose heuristic: 1
+Secret word is: exact
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: elate
+Attempt n: 3. Player choose guess: enact
+Attempt n: 4. Player choose guess: epact
+Attempt n: 5. Player choose guess: exact
+Player won
+Time taken (in seconds): 0.0235
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: decor
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: ender
+Attempt n: 3. Player choose guess: decor
+Player won
+Time taken (in seconds): 0.0085
+Number of attempts: 3
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: coral
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: reran
+Attempt n: 3. Player choose guess: aural
+Attempt n: 4. Player choose guess: coral
+Player won
+Time taken (in seconds): 0.018
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: guppy
 Attempt n: 1. Player choose guess: sitar
 Attempt n: 2. Player choose guess: melee
-Attempt n: 3. Player choose guess: mondo
-Attempt n: 4. Player choose guess: mummy
-Attempt n: 5. Player choose guess: muggy
+Attempt n: 3. Player choose guess: codon
+Attempt n: 4. Player choose guess: puppy
+Attempt n: 5. Player choose guess: guppy
 Player won
-Time taken (in seconds): 0.0197
+Time taken (in seconds): 0.0451
 Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: corny
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: erred
+Attempt n: 3. Player choose guess: porno
+Attempt n: 4. Player choose guess: cornu
+Attempt n: 5. Player choose guess: corny
+Player won
+Time taken (in seconds): 0.0287
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: fruit
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: inert
+Attempt n: 3. Player choose guess: orbit
+Attempt n: 4. Player choose guess: fruit
+Player won
+Time taken (in seconds): 0.015
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: group
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: erred
+Attempt n: 3. Player choose guess: orlon
+Attempt n: 4. Player choose guess: croup
+Attempt n: 5. Player choose guess: group
+Player won
+Time taken (in seconds): 0.032
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: dream
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: reran
+Attempt n: 3. Player choose guess: areal
+Attempt n: 4. Player choose guess: dread
+Attempt n: 5. Player choose guess: dream
+Player won
+Time taken (in seconds): 0.0211
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: vault
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: elate
+Attempt n: 3. Player choose guess: natal
+Attempt n: 4. Player choose guess: tally
+Attempt n: 5. Player choose guess: fault
+Attempt n: 6. Player choose guess: vault
+Player won
+Time taken (in seconds): 0.028
+Number of attempts: 6
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: their
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: trier
+Attempt n: 3. Player choose guess: their
+Player won
+Time taken (in seconds): 0.0072
+Number of attempts: 3
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: wince
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: niece
+Attempt n: 3. Player choose guess: mince
+Attempt n: 4. Player choose guess: wince
+Player won
+Time taken (in seconds): 0.018
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: comfy
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: melee
+Attempt n: 3. Player choose guess: duomo
+Attempt n: 4. Player choose guess: oomph
+Attempt n: 5. Player choose guess: comfy
+Player won
+Time taken (in seconds): 0.0467
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: shack
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: sales
+Attempt n: 3. Player choose guess: scans
+Attempt n: 4. Player choose guess: spacy
+Attempt n: 5. Player choose guess: smack
+Attempt n: 6. Player choose guess: shack
+Player won
+Time taken (in seconds): 0.0319
+Number of attempts: 6
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: pleat
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: cleat
+Attempt n: 3. Player choose guess: pleat
+Player won
+Time taken (in seconds): 0.0102
+Number of attempts: 3
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: kebab
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: paean
+Attempt n: 3. Player choose guess: algae
+Attempt n: 4. Player choose guess: decay
+Attempt n: 5. Player choose guess: kebab
+Player won
+Time taken (in seconds): 0.0269
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: dopey
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: melee
+Attempt n: 3. Player choose guess: donee
+Attempt n: 4. Player choose guess: doped
+Attempt n: 5. Player choose guess: dopey
+Player won
+Time taken (in seconds): 0.0354
+Number of attempts: 5
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: raven
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: arena
+Attempt n: 3. Player choose guess: nares
+Attempt n: 4. Player choose guess: caner
+Attempt n: 5. Player choose guess: paren
+Attempt n: 6. Player choose guess: raven
+Player won
+Time taken (in seconds): 0.0356
+Number of attempts: 6
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: pygmy
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: melee
+Attempt n: 3. Player choose guess: duomo
+Attempt n: 4. Player choose guess: pygmy
+Player won
+Time taken (in seconds): 0.0341
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: rural
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: reran
+Attempt n: 3. Player choose guess: rural
+Player won
+Time taken (in seconds): 0.0098
+Number of attempts: 3
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: super
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: sneer
+Attempt n: 3. Player choose guess: seder
+Attempt n: 4. Player choose guess: sorer
+Attempt n: 5. Player choose guess: sheer
+Attempt n: 6. Player choose guess: surer
+Time taken (in seconds): 0.0289
+Player lost
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: dross
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: leers
+Attempt n: 3. Player choose guess: cross
+Attempt n: 4. Player choose guess: dross
+Player won
+Time taken (in seconds): 0.0201
+Number of attempts: 4
+---------------------------------------------
+User chose heuristic: 1
+Secret word is: swath
+Attempt n: 1. Player choose guess: sitar
+Attempt n: 2. Player choose guess: seats
+Attempt n: 3. Player choose guess: stats
+Attempt n: 4. Player choose guess: slats
+Attempt n: 5. Player choose guess: scats
+Attempt n: 6. Player choose guess: spats
+Time taken (in seconds): 0.0205
+Player lost
 ---------------------------------------------

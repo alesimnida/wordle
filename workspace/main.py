@@ -41,7 +41,7 @@ def evaluate_guess(guess, word):
     return right_position, wrong_position, discarded, already_found
 
 
-def wordle(guesses):
+def wordle(guesses, answers):
 
     choice = input("which heuristic? Insert '1' (frequency letters general), '2' (frequency letters wordle), '3' (frequency words), '4' (entropy) or '5' (special entropy)\n")
     if int(choice) != 1 and int(choice) != 2 and int(choice) != 3 and int(choice) != 4 and int(choice) != 5:
@@ -52,14 +52,9 @@ def wordle(guesses):
     print(" ")
     print(" ")
     start = "\033[34m" + "Welcome to Wordle!"
-    print(start + " You have 5 attempts to guess a five-letters english word." + "\033[0m")
-    secret_word = random.choice(guesses).lower()
-    #secret_word = "tithe"
+    print(start + " You have 6 attempts to guess a five-letters english word." + "\033[0m")
+    secret_word = random.choice(answers).lower()
     file_test.write("Secret word is: " + secret_word + "\n")
-    #secret_word = "globe"
-    #secret_word = "canal"
-    #secret_word = "jumpy" #da ritestare nel momento in cui hai sviluppato un'euristica
-    #secret_word = "fanin"
     print("(Shh... the secret word is: " + secret_word + ")")
 
     max_attempts = 6
@@ -75,7 +70,7 @@ def wordle(guesses):
             print("The first attempt is with the word: " + guess)
         else:
             print("Attempt " + str(attempts) + ". Intelligent player is chosing a guess...")
-            guess = player.guess(right_position, wrong_position, discarded, guesses, already_found, int(choice))
+            guess = player.guess(right_position, wrong_position, discarded, guesses, already_found, int(choice), attempts)
             print("Player chose: " + guess)
         file_test.write("Attempt n: " + str(attempts) + ". Player choose guess: " + guess + "\n")
         
@@ -109,5 +104,7 @@ def wordle(guesses):
 
 guesses_dictionary = "data/guesses.txt"
 guesses = _utils.load_dictionary(guesses_dictionary)
-
-wordle(guesses)
+answer_dictionary = "data/answers.txt" #da aggiungere come correzioni? oppure lasci tutto uguale e spieghi a voce
+answers = _utils.load_dictionary(answer_dictionary)
+#answers = guesses
+wordle(guesses, answers)

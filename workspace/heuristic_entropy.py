@@ -9,12 +9,12 @@ patterns = load_dictionary(patterns_dictionary)
 already_tried = []
 
 #FIRST HEURISTIC: entropy
-def heuristic_entropy(possible_solutions, guesses):
+def heuristic_entropy(possible_solutions, guesses, attempts):
     entropy_list = {}
     max = -1
     max_word = ""
     #print(len(possible_solutions))
-    print(possible_solutions)
+    #print(possible_solutions)
     if (len(possible_solutions) == 1): return possible_solutions[0]
     else:
         progress_bar = tqdm(total=len(guesses), desc="Progress")
@@ -27,12 +27,12 @@ def heuristic_entropy(possible_solutions, guesses):
             if s > max:
                 max = s
                 max_word = w  
-        print(max_word, max) 
-        if (max == 1): #if entropy equals 1, i have equiprobable solutions, i need to try one
+        #print(max_word, max) 
+        if (max < 2) or attempts == 6: #if entropy equals 1, i have equiprobable solutions, i need to try one
             for element in already_tried[:]:
                 if element in possible_solutions:
                     possible_solutions.remove(element)
-            print(possible_solutions)
+            #print(possible_solutions)
             max_word = random.choice(possible_solutions)   
             already_tried.append(max_word)     
         return max_word
